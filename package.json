@@ -1,0 +1,14 @@
+{
+  "name": "week2-node-express",
+  "version": "1.0.0",
+  "description": "Week 2 assignment: Build & Deploy Your API with Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
